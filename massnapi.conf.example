@@ -1,0 +1,7 @@
+---
+:local_encoding: UTF-8 
+:movies: "\\.(mp4|avi|mkv)$" # movie file regexp
+:show_skips: false # show lines "$movie_name: SKIP ..." when subtitle file already exists?
+:roots: # list of directories with movies
+- "/home/user/movies"
+- "/storage/tvshows"
